@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Utsab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-I'm a computational biologist unraveling the complexities of plant biology through data science and machine learning.
+I'm a computational and molecular biologist unraveling the complexities of plant biology through data science and machine learning.
 </p>
 
 ## 🌱 About Me
