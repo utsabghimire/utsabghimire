@@ -23,13 +23,12 @@ Here are some of the repositories I’ve been working on:
 |--------|-------------|
 | [broccoli‑scRNA‑seq](https://github.com/utsabghimire/broccoli-scRNA-seq) | Single‑cell RNA‑seq analysis pipeline for broccoli inflorescences, focusing on senescence and developmental trajectories. |
 | [bulk‑rnaseq‑postharvest‑pipeline](https://github.com/utsabghimire/bulk-rnaseq-postharvest-pipeline) | Workflow for processing and analyzing bulk RNA‑seq data from postharvest plant tissues. |
-
-| [Postharvest_RNAseq](https://github.com/utsabghimire/Postharvest_RNAseq) | Analyses exploring gene expression changes during postharvest senescence.
-|
+| [Postharvest_RNAseq](https://github.com/utsabghimire/Postharvest_RNAseq) | Analyses exploring gene expression changes during postharvest senescence. |
+| [biomass-ml-prediction](https://github.com/utsabghimire/biomass-ml-prediction) | Machine learning models for cover crop biomass and C:N ratio prediction using CatBoost, XGBoost, and neural networks; includes feature engineering, weather‑based feature extraction, and example notebooks. |
 
 ## 📈 GitHub Stats
 
-These dynamic images show your GitHub activity and language distribution.
+These dynamic images display my GitHub activity, contribution streak, and language distribution. They update automatically as I add repositories and commit changes.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utsabghimire&show_icons=true&hide=issues&count_private=true" alt="GitHub stats" />
@@ -54,8 +53,8 @@ Here are some tools and technologies I work with regularly:
 
 Here’s how you can get in touch with me:
 
-- : [utsabghimire02@gmail.cpm](mailto:utsabghimire02@gmail.cpm)  
-- Email: [utsab.ghimire@ufl.edu](mailto:utsab.ghimire@ufl.edu)  
+- Email: [utsabghimire02@gmail.cpm](mailto:utsabghimire02@gmail.cpm)
+- Email: [utsab.ghimire@ufl.edu](mailto:utsab.ghimire@ufl.edu)
 - LinkedIn: [linkedin.com/in/utsab-ghimire-543117146](https://www.linkedin.com/in/utsab-ghimire-543117146)
 
 ## 🎯 Goals
