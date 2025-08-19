@@ -23,7 +23,9 @@ Here are some of the repositories I’ve been working on:
 |--------|-------------|
 | [broccoli‑scRNA‑seq](https://github.com/utsabghimire/broccoli-scRNA-seq) | Single‑cell RNA‑seq analysis pipeline for broccoli inflorescences, focusing on senescence and developmental trajectories. |
 | [bulk‑rnaseq‑postharvest‑pipeline](https://github.com/utsabghimire/bulk-rnaseq-postharvest-pipeline) | Workflow for processing and analyzing bulk RNA‑seq data from postharvest plant tissues. |
-| [Postharvest_RNAseq](https://github.com/utsabghimire/Postharvest_RNAseq) | Analyses exploring gene expression changes during postharvest senescence. |
+
+| [Postharvest_RNAseq](https://github.com/utsabghimire/Postharvest_RNAseq) | Analyses exploring gene expression changes during postharvest senescence.
+|
 
 ## 📈 GitHub Stats
 
@@ -52,7 +54,7 @@ Here are some tools and technologies I work with regularly:
 
 Here’s how you can get in touch with me:
 
-- Email: [utsabghimire02@gmail.cpm](mailto:utsabghimire02@gmail.cpm)  
+- : [utsabghimire02@gmail.cpm](mailto:utsabghimire02@gmail.cpm)  
 - Email: [utsab.ghimire@ufl.edu](mailto:utsab.ghimire@ufl.edu)  
 - LinkedIn: [linkedin.com/in/utsab-ghimire-543117146](https://www.linkedin.com/in/utsab-ghimire-543117146)
 
