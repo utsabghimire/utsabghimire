@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Utsab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-I'm a computational and molecular biologist unraveling the complexities of plant biology through data science and machine learning.
+I'm a computational biologist unraveling the complexities of plant biology through data science and machine learning.
 </p>
 
 ## 🌱 About Me
@@ -25,6 +25,7 @@ Here are some of the repositories I’ve been working on:
 | [bulk‑rnaseq‑postharvest‑pipeline](https://github.com/utsabghimire/bulk-rnaseq-postharvest-pipeline) | Workflow for processing and analyzing bulk RNA‑seq data from postharvest plant tissues. |
 | [Postharvest_RNAseq](https://github.com/utsabghimire/Postharvest_RNAseq) | Analyses exploring gene expression changes during postharvest senescence. |
 | [biomass-ml-prediction](https://github.com/utsabghimire/biomass-ml-prediction) | Machine learning models for cover crop biomass and C:N ratio prediction using CatBoost, XGBoost, and neural networks; includes feature engineering, weather‑based feature extraction, and example notebooks. |
+| [broccoli-proteomics-senescence](https://github.com/utsabghimire/broccoli-proteomics-senescence) | Proteomics analysis pipeline for TMT‑based postharvest senescence in broccoli; includes scripts for loading, preprocessing, exploratory analysis (PCA and volcano plots), differential testing, and a command‑line workflow. |
 
 ## 📈 GitHub Stats
 
