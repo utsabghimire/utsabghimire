@@ -29,7 +29,7 @@ Here are some of the repositories I’ve been working on:
 
 ## 📈 GitHub Stats
 
-These dynamic images display my GitHub activity, contribution streak, and language distribution. They update automatically as I add repositories and commit changes.
+These dynamic images display my GitHub activity, contribution streak, and language distribution. 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utsabghimire&show_icons=true&hide=issues&count_private=true" alt="GitHub stats" />
