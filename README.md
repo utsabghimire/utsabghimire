@@ -33,7 +33,6 @@ These dynamic images display my GitHub activity, contribution streak, and langua
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utsabghimire&show_icons=true&hide=issues&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsabghimire" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsabghimire&layout=compact" alt="Top Languages" />
 </p>
 
