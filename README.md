@@ -29,10 +29,6 @@ Here are some of the repositories I’ve been working on:
 
 ## 📈 GitHub Stats
 
-These dynamic images display my GitHub activity, contribution streak, and language distribution. 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsabghimire&show_icons=true&hide=issues&count_private=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsabghimire&layout=compact" alt="Top Languages" />
 </p>
 
