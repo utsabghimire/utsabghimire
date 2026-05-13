@@ -49,8 +49,7 @@ Here are some tools and technologies I work with regularly:
 
 Here’s how you can get in touch with me:
 
-- Email: [utsabghimire02@gmail.cpm](mailto:utsabghimire02@gmail.cpm)
-- Email: [utsab.ghimire@ufl.edu](mailto:utsab.ghimire@ufl.edu)
+- Email: [utsabghimire02@gmail.cpm](mailto:utsabghimire02@gmail.com)
 - LinkedIn: [linkedin.com/in/utsab-ghimire-543117146](https://www.linkedin.com/in/utsab-ghimire-543117146)
 
 ## 🎯 Goals
